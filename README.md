@@ -1,8 +1,26 @@
-# React + Vite
+# Customer Segmentation Dashboard using RFM Analysis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Decision Sciences analytics dashboard built to segment customers using RFM (Recency, Frequency, Monetary) analysis.
 
-Currently, two official plugins are available:
+## Features
+- Customer segmentation into:
+  - Champion
+  - Loyal Customer
+  - New Customer
+  - At Risk
+  - Lost Customer
+- Segment KPI cards
+- Customer distribution bar chart
+- Revenue contribution pie chart
+- Customer analytics table
+- Segment filtering
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React.js
+- JavaScript
+- CSS
+- Recharts
+- Vite
+
+## Purpose
+This dashboard helps businesses analyze customer behavior and identify valuable customers using RFM scoring.
