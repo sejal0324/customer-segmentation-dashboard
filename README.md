@@ -16,11 +16,11 @@ A Decision Sciences analytics dashboard built to segment customers using RFM (Re
 - Segment filtering
 
 ## Tech Stack
-- React.js
+- React.js + vite
 - JavaScript
 - CSS
 - Recharts
-- Vite
+
 
 ## Purpose
 This dashboard helps businesses analyze customer behavior and identify valuable customers using RFM scoring.
